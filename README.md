@@ -1,4 +1,4 @@
-# plat_diseases_app
+# Tomato_Disease_App
 
 A flutter project
 
